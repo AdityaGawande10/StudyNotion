@@ -509,32 +509,3 @@ Before you begin, ensure you have the following prerequisites installed:
        RAZORPAY_KEY = “your_razorpay_key”
        RAZORPAY_SECRET = “your_razorpay_secret”
       
-<hr>
-<p align="right">(<a href="#top">back to top</a>)</p>
-<!-- Open Source Programs -->
-
-<!-- Code of conduct -->
-<div>
-<h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Code of Conduct</h2>
-</div>
-
-Please note that this project is released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.<br>
-
-<hr>
-
-This project is part of GirlScript Summer of Code. We enthusiastically invite contributions from the community to help elevate StudyNotion to new heights.<br>
-
-<hr>
- <!-- Contributors -->
-<div>
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2>
-</div>
-
-Thank you for your invaluable contributions to our project! Your support is immensely appreciated in enhancing StudyNotion. 😊
-
-<center>
-<a href="https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Muskansahuincredible/StudyNotion-An-Online-Education-Platform" />
-</a>
-</center>
-<p align="right">(<a href="#top">back to top</a>)</p>
